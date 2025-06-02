@@ -15,7 +15,7 @@ class Bird extends Animal {
     }
 }
 
-public class bodlogo1 {
+public class Bodlogo1 {
     public static void main(String args[]) {
         Bird bird = new Bird();
         bird.walk();
